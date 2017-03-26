@@ -18,3 +18,7 @@ negative and the graph is built based on that output.
 
 https://www.ibm.com/watson/developercloud/tone-analyzer.html
 
+There are several Javascript funtions to handle formating of code and several html nodes to handle the display as well.
+
+
+
